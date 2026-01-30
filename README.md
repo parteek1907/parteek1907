@@ -20,9 +20,9 @@ I am a first-year B.Tech CSE student at NMIMS Chandigarh, focused on building st
 
 <div align="left">
 
-- 🔭 I'm currently working on **I’m currently working on building small projects to strengthen my programming and problem-solving skills  **
-- 👯 I'm looking to collaborate on ** I’m looking to collaborate on beginner-friendly open-source projects and learning-focused applications**
-- 🤝 I'm looking for help with **I’m looking for help with improving system design thinking and writing cleaner code**
+- 🔭 I’m currently working on building small projects to strengthen my programming and problem-solving skills.
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects and learning-focused applications.
+- 🤝 I'm looking for help with **I’m looking for help with improving system design thinking and writing cleaner code.
 
 </div>
 
