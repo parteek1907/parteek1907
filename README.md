@@ -72,7 +72,7 @@ I am a first-year B.Tech CSE student at NMIMS Chandigarh, focused on building st
 
 <div align="center">
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/parteek1907?theme=dark)
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/parteek1907?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
 
 </div>
 
