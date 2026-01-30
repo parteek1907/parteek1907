@@ -38,7 +38,7 @@ I am a first-year B.Tech CSE student at NMIMS Chandigarh, focused on building st
 
 <div align="left">
 
-- 📫 How to reach me **gargparteek1907@gmail.com**
+- 📫 **gargparteek1907@gmail.com**
 
 </div>
 
