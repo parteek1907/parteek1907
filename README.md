@@ -8,7 +8,7 @@
 
 ### CS & Data Science | Building Practical Systems
 
-<img src="https://res.cloudinary.com/dwuekr7bo/image/upload/v1769767838/P_logo_abkul7.jpg" alt="Parteek Garg" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://res.cloudinary.com/dwuekr7bo/image/upload/v1769767838/P_logo_abkul7.jpg](https://res.cloudinary.com/dwuekr7bo/image/upload/v1769865768/Prsl_logo_ffsyco.jpg" alt="Parteek Garg" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
