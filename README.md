@@ -8,7 +8,7 @@
 
 ### CS & Data Science | Building Practical Systems
 
-<img src="https://res.cloudinary.com/dwuekr7bo/image/upload/v1769865768/Prsl_logo_ffsyco.jpg" alt="Parteek Garg" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://res.cloudinary.com/dwuekr7bo/image/upload/v1769865968/Prsl_logo_without_bg_itt5j3.png" alt="Parteek Garg" width="150" height="150" style="border-radius: 50%;" />
 </div>
 
 ## 🚀 About Me
