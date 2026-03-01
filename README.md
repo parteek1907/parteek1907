@@ -152,7 +152,7 @@ Currently focused on deepening expertise in:
 
 <div align="center">
 
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/parteek1907?theme=dark&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/parteek1907?theme=dark&acceptance=false&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
 
 </div>
 
