@@ -8,7 +8,7 @@
 
 # Hi, I'm Parteek Garg 👋
 
-### CS & Data Science Student · Full-Stack Builder · Problem Solver
+### CS & Data Science Student · Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production-grade+systems+from+scratch;RAG+pipelines+%7C+TypeScript+%7C+Node.js;First-year+student+shipping+real+products)](https://git.io/typing-svg)
 
