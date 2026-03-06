@@ -134,30 +134,6 @@ Currently focused on deepening expertise in:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parteek1907&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parteek1907&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=parteek1907&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/parteek1907?theme=dark&acceptance=false&reputation=false&font=Montserrat%2C+Arial%2C+Helvetica%2C+sans-serif)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
