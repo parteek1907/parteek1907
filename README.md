@@ -84,6 +84,23 @@ Student-focused academic management platform built with pure Vanilla TypeScript 
 </td>
 <td width="50%" valign="top">
 
+### 🍃 [GreenTrace](https://github.com/parteek1907/GreenTrace)
+**Environmental Intelligence Platform**
+
+Premium personal sustainability tracker featuring an interactive Carbon Twin Simulator and generative shareable Carbon Signatures. Built with a bespoke dual-state routing architecture.
+
+- Carbon Twin predictive simulation engine
+- Client-side generative WebGL-inspired artifacts
+- Dual-state architecture (exclusive mobile vs desktop layouts)
+- Real-time Recharts analytics and animated UI
+
+`TypeScript` `Next.js` `Tailwind` `Framer Motion` `Recharts`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔧 More Coming Soon
 **Always Building**
 
@@ -95,6 +112,8 @@ Currently focused on deepening expertise in:
 
 *Watch this space →* ⭐
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
