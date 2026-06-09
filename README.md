@@ -101,7 +101,39 @@ Premium personal sustainability tracker featuring an interactive Carbon Twin Sim
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 More Coming Soon
+### 🩺 [Lumiere](https://github.com/parteek1907/lumiere)
+**AI-Powered Patient Identity Resolution**
+
+Healthcare intelligence prototype built during Hack-O-Mania 2.0 to detect and prevent duplicate patient records using privacy-preserving hybrid matching and confidence-based scoring.
+
+- Real-time duplicate detection & hybrid matching logic
+- Confidence-based decision engine (Auto merge / review / new)
+- Privacy-preserving data transformation workflows
+- Human-in-the-loop validation queue
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `TailwindCSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [GitRevamp](https://github.com/parteek1907/gitrevamp)
+**Supercharge Your GitHub Experience**
+
+Chrome extension (Manifest V3) that injects 9 powerful developer tools directly into GitHub's UI, including health scoring, LOC stats, and VS Code-style file icons.
+
+- Sidebar health scoring & risk warnings (Bus factor, Licensing)
+- Lines of code statistics with interactive breakdowns
+- VS Code Material Theme SVG icon injection
+- Zero-dependency Vanilla JS architecture
+
+`JavaScript` `Chrome Extension` `Manifest V3` `CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 More Coming Soon
 **Always Building**
 
 Currently focused on deepening expertise in:
