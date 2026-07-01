@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a first-year B.Tech CSE (Data Science) student at **NMIMS Chandigarh** who builds production-grade full-stack applications — not just tutorials or CRUD apps.
+I'm a B.Tech CSE (Data Science) student at **NMIMS Chandigarh** who builds production-grade full-stack applications — not just tutorials or CRUD apps.
 
 I focus on **systems that solve real problems**: credibility verification platforms, DNA data storage simulators, and academic tracking tools. Each project I ship uses a modern, typed stack with proper architecture, security, and deployment.
 
