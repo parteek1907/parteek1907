@@ -181,25 +181,18 @@ Currently focused on deepening expertise in:
 ---
 
 ## 🌐 Connect
-
 <p align="center">
-  <a href="https://github.com/parteek1907"><img src="https://cdn.simpleicons.org/github/181717/f0f6fc" width="30" height="30" alt="GitHub" /></a>
+  <a href="https://github.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fparteek1907" alt="github" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parteek1907/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/parteek1907/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparteek1907%2F" alt="linkedin" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/parteek1907"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="30" height="30" alt="X" /></a>
+  <a href="https://instagram.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=48&link=https%3A%2F%2Finstagram.com%2Fparteek1907" alt="instagram" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/parteek1907"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram" /></a>
+  <a href="mailto:gargparteek1907@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=48&link=mailto%3Agargparteek1907%40gmail.com" alt="gmail" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/parteek1907"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode" /></a>
+  <a href="https://twitter.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=48&color=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fparteek1907" alt="x" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gargparteek1907@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="https://github.com/parteek1907">GitHub</a> · <a href="https://www.linkedin.com/in/parteek1907/">LinkedIn</a> · <a href="https://twitter.com/parteek1907">X</a> · <a href="https://instagram.com/parteek1907">Instagram</a> · <a href="https://leetcode.com/parteek1907">LeetCode</a> · <a href="mailto:gargparteek1907@gmail.com">Email</a>
-  </sub>
+  <a href="https://leetcode.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=48&link=https%3A%2F%2Fleetcode.com%2Fparteek1907" alt="leetcode" /></a>
 </p>
 
 ---
