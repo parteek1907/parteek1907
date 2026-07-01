@@ -189,9 +189,12 @@ Currently focused on deepening expertise in:
   <a href="https://instagram.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=36&link=https%3A%2F%2Finstagram.com%2Fparteek1907" alt="instagram" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:gargparteek1907@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=36&link=mailto%3Agargparteek1907%40gmail.com" alt="gmail" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=36&color=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fparteek1907" alt="x" /></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/parteek1907">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=x&size=36&color=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fparteek1907">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=36&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fparteek1907" alt="x">
+  </picture>
+</a>
   <a href="https://leetcode.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=36&link=https%3A%2F%2Fleetcode.com%2Fparteek1907" alt="leetcode" /></a>
 </p>
 
