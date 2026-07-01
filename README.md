@@ -154,49 +154,53 @@ Currently focused on deepening expertise in:
 
 ## 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<p align="center"><sub><b>LANGUAGES</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c&theme=dark" alt="Languages" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center"><sub><b>FRONTEND</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" />
+</p>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+<p align="center"><sub><b>BACKEND & DATABASE</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&theme=dark" alt="Backend & Database" />
+</p>
 
-### Tools & Platforms
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)&nbsp;
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+<p align="center"><sub><b>DEPLOYMENT & TOOLING</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vercel,netlify&theme=dark" alt="Deployment & Tooling" />
+</p>
+
+<p align="center">
+  <sub>Also working with Auth0 · Groq · Drizzle ORM · Playwright</sub>
+</p>
 
 ---
 
 ## 🌐 Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/parteek1907"><img src="https://cdn.simpleicons.org/github/181717/f0f6fc" width="30" height="30" alt="GitHub" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parteek1907/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/parteek1907"><img src="https://cdn.simpleicons.org/x/000000/ffffff" width="30" height="30" alt="X" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/parteek1907"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/parteek1907"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gargparteek1907@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" /></a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parteek1907)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteek1907/)&nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/parteek1907)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parteek1907)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/parteek1907)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gargparteek1907@gmail.com)
-
-</div>
+<p align="center">
+  <sub>
+    <a href="https://github.com/parteek1907">GitHub</a> · <a href="https://www.linkedin.com/in/parteek1907/">LinkedIn</a> · <a href="https://twitter.com/parteek1907">X</a> · <a href="https://instagram.com/parteek1907">Instagram</a> · <a href="https://leetcode.com/parteek1907">LeetCode</a> · <a href="mailto:gargparteek1907@gmail.com">Email</a>
+  </sub>
+</p>
 
 ---
 
