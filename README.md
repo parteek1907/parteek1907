@@ -179,27 +179,23 @@ Currently focused on deepening expertise in:
 </p>
 
 ---
-
-## 🌐 Connect
 <p align="center">
-  <a href="https://github.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=36&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fparteek1907" alt="github" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parteek1907/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=36&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparteek1907%2F" alt="linkedin" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=36&link=https%3A%2F%2Finstagram.com%2Fparteek1907" alt="instagram" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:gargparteek1907@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=36&link=mailto%3Agargparteek1907%40gmail.com" alt="gmail" /></a>
-  &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/parteek1907">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=x&size=36&color=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fparteek1907">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=36&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fparteek1907" alt="x">
-  </picture>
-</a>
-  <a href="https://leetcode.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=36&link=https%3A%2F%2Fleetcode.com%2Fparteek1907" alt="leetcode" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=parteek1907&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parteek1907&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=github&size=44&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fparteek1907" alt="github" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parteek1907/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=44&color=%233b82f6&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparteek1907%2F" alt="linkedin" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=44&link=https%3A%2F%2Finstagram.com%2Fparteek1907" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gargparteek1907@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=44&link=mailto%3Agargparteek1907%40gmail.com" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/parteek1907"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.readmecodegen.com/api/social-icon?name=x&size=44&color=%23ffffff&link=https%3A%2F%2Ftwitter.com%2Fparteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=x&size=44&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fparteek1907" alt="x"></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/parteek1907"><img src="https://www.readmecodegen.com/api/social-icon?name=leetcode&size=44&link=https%3A%2F%2Fleetcode.com%2Fparteek1907" alt="leetcode" /></a>
+</p>
 
 ---
 
