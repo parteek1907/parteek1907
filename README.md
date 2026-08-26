@@ -175,7 +175,7 @@ Currently focused on deepening expertise in:
 </p>
 
 <p align="center">
-  <sub>Also working with Auth0 · Groq · Drizzle ORM · Playwright</sub>
+  <sub>Also working with Auth0 · Groq · Playwright</sub>
 </p>
 
 ---
