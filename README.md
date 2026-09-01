@@ -193,9 +193,3 @@ Currently focused on deepening expertise in:
 ---
 
 <div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=parteek1907&color=00d4aa&style=flat-square&label=Profile+Views)
-
-</div>
