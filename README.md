@@ -8,9 +8,9 @@
 
 # Hi, I'm Parteek Garg 👋
 
-### CS & Data Science Student · Problem Solver
+### CS & Data Science Student · Builder · Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+production-grade+systems+from+scratch;RAG+pipelines+%7C+TypeScript+%7C+Node.js;First-year+student+shipping+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+practical+systems+from+scratch;Full-Stack+Development+%7C+AI+%7C+FinTech;Turning+ideas+into+working+products)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,15 +18,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a B.Tech CSE (Data Science) student at **NMIMS Chandigarh** who builds production-grade full-stack applications — not just tutorials or CRUD apps.
+I'm a B.Tech CSE (Data Science) student at **NMIMS Chandigarh** focused on building practical software products that solve real-world problems.
 
-I focus on **systems that solve real problems**: credibility verification platforms, DNA data storage simulators, and academic tracking tools. Each project I ship uses a modern, typed stack with proper architecture, security, and deployment.
+I work across **full-stack development, AI-powered applications, FinTech, backend systems, and technical research**. My projects range from credibility verification and healthcare intelligence to financial technology, payment security, and environmental applications.
 
-My approach is simple — pick a real problem, design the right system for it, and build it properly from day one.
+My approach is simple — understand the problem, design the system, build it properly, and take it as far as possible.
 
-- 🏗️ Currently building full-stack TypeScript applications with Node.js, React, and Supabase
-- 🧠 Deepening knowledge in RAG pipelines, deterministic scoring systems, and AI/ML fundamentals
-- 📐 Focused on clean architecture, type safety, and reproducible systems
+- 🏗️ Building full-stack applications with TypeScript, React, Node.js, Next.js, and modern backend technologies
+- 🧠 Exploring RAG pipelines, LLM integration, AI-powered systems, and intelligent decision-making
+- 💳 Building products around FinTech, payment security, financial education, and financial intelligence
+- ⚡ Experienced in rapid product development through hackathons and competitive technical events
 - 📍 Based in Chandigarh, India
 
 ---
@@ -37,49 +38,84 @@ My approach is simple — pick a real problem, design the right system for it, a
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Veralon](https://github.com/parteek1907/Veralon)
-**Credibility Intelligence Platform**
+### 💰 [FinWise AI](https://github.com/parteek1907/finwise-ai)
+**AI-Powered Personal Finance Platform**
 
-RAG-based claim verification system that evaluates any input — text, URL, PDF, or image — against up to 30 deduplicated sources using a **deterministic 8-component, 100-point scoring engine**.
+Full-stack financial platform combining AI-powered financial mentorship, vision-based scam detection, dynamic goal tracking, financial education, and interactive market experiences.
 
-- 13-step V3 institutional pipeline (max 2 LLM calls)
-- GDELT + Google News RSS + 40+ government domains
-- SHA-256 audit hash on every report
-- Auth0 · Supabase RLS · Groq · Drizzle ORM
+- AI Financial Mentor with personalized financial context
+- Vision-based Scam & Fraud Detection
+- Gamified financial learning and missions
+- Paper trading and market simulation
+- Financial health dashboard and goal tracking
 
-`TypeScript` `React` `Node.js` `Express` `Supabase` `Groq`
+`Next.js` `React` `FastAPI` `Python` `Groq` `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [DNA Encoding](https://github.com/parteek1907/dna-encoding)
-**DNA Data Storage Simulator**
+### 💳 [Ziro](https://github.com/parteek1907/ziro)
+**Intelligent FinTech Platform**
 
-Interactive full-stack simulator for DNA-based digital data storage. Encode text into A/T/C/G sequences with configurable base mappings and visualize the animated double helix in real time.
+Intelligent fintech platform combining AI-powered payment security, smart settlement, offline transactions, and privacy-conscious financial reputation into a unified payment experience.
 
-- Custom binary → DNA encoding algorithm
-- Framer Motion animated SVG helix
-- Save & load simulation presets
-- In-memory fallback (zero-setup)
+- AI-powered payment security
+- Smart settlement
+- Offline transactions
+- Privacy-conscious financial reputation
+- Unified payment experience
 
-`TypeScript` `React` `Node.js` `Vite` `Tailwind` `Framer Motion`
+`FinTech` `AI` `Payments` `Security`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📘 [CampusCare](https://github.com/parteek1907/CampusCare)
-**Academic Tracking Platform**
+### 🌊 [Sanket](https://github.com/adityaa6060/SANKET)
+**Ocean & Coastal Safety Intelligence Platform**
 
-Student-focused academic management platform built with pure Vanilla TypeScript — no framework, no backend, no cloud database. Tracks attendance, calculates CGPA, and simulates what-if scenarios.
+Ocean and coastal safety intelligence platform combining citizen hazard reporting, environmental intelligence, AI-assisted analysis, geospatial risk assessment, alerts, and emergency response.
 
-- Custom calendar (built from scratch, no library)
-- What-If attendance simulation (non-destructive)
-- jsPDF academic report export
-- Multi-semester support with data migration
+- Citizen hazard reporting
+- Environmental intelligence
+- AI-assisted analysis
+- Geospatial risk assessment
+- Alerts and emergency response
 
-`TypeScript` `Vite` `Auth0` `localStorage` `jsPDF` `Playwright`
+`Android` `AI` `Geospatial` `Research`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Lumiere](https://github.com/parteek1907/lumiere)
+**AI-Powered Patient Identity Resolution**
+
+Healthcare intelligence platform focused on detecting and preventing duplicate patient records using privacy-preserving hybrid matching and confidence-based scoring.
+
+- Real-time duplicate detection
+- Hybrid matching and confidence scoring
+- Privacy-preserving workflows
+- Human-in-the-loop validation
+
+`Python` `FastAPI` `Next.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Veralon](https://github.com/parteek1907/Veralon)
+**Credibility Intelligence Platform**
+
+RAG-based claim verification system that evaluates information against multiple sources using structured evidence retrieval and deterministic scoring.
+
+- Multi-source evidence retrieval
+- Structured evidence clustering
+- Deterministic credibility scoring
+- Transparent verification workflow
+
+`TypeScript` `React` `Node.js` `Express` `Supabase` `Groq`
 
 </td>
 <td width="50%" valign="top">
@@ -87,12 +123,12 @@ Student-focused academic management platform built with pure Vanilla TypeScript 
 ### 🍃 [GreenTrace](https://github.com/parteek1907/GreenTrace)
 **Environmental Intelligence Platform**
 
-Premium personal sustainability tracker featuring an interactive Carbon Twin Simulator and generative shareable Carbon Signatures. Built with a bespoke dual-state routing architecture.
+Personal sustainability platform focused on understanding and reducing individual environmental impact through interactive carbon tracking and visualization.
 
-- Carbon Twin predictive simulation engine
-- Client-side generative WebGL-inspired artifacts
-- Dual-state architecture (exclusive mobile vs desktop layouts)
-- Real-time Recharts analytics and animated UI
+- Carbon footprint tracking
+- Carbon Twin simulation
+- Generative Carbon Signatures
+- Interactive sustainability analytics
 
 `TypeScript` `Next.js` `Tailwind` `Framer Motion` `Recharts`
 
@@ -101,51 +137,35 @@ Premium personal sustainability tracker featuring an interactive Carbon Twin Sim
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [Lumiere](https://github.com/parteek1907/lumiere)
-**AI-Powered Patient Identity Resolution**
-
-Healthcare intelligence prototype built during Hack-O-Mania 2.0 to detect and prevent duplicate patient records using privacy-preserving hybrid matching and confidence-based scoring.
-
-- Real-time duplicate detection & hybrid matching logic
-- Confidence-based decision engine (Auto merge / review / new)
-- Privacy-preserving data transformation workflows
-- Human-in-the-loop validation queue
-
-`Python` `FastAPI` `Next.js` `PostgreSQL` `TailwindCSS`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🔧 [GitRevamp](https://github.com/parteek1907/gitrevamp)
 **Supercharge Your GitHub Experience**
 
-Chrome extension (Manifest V3) that injects 9 powerful developer tools directly into GitHub's UI, including health scoring, LOC stats, and VS Code-style file icons.
+Chrome extension that adds developer-focused utilities directly to GitHub's interface.
 
-- Sidebar health scoring & risk warnings (Bus factor, Licensing)
-- Lines of code statistics with interactive breakdowns
-- VS Code Material Theme SVG icon injection
-- Zero-dependency Vanilla JS architecture
+- Repository health scoring
+- Lines of code statistics
+- Risk and repository insights
+- VS Code-style file icons
+- Manifest V3 architecture
 
 `JavaScript` `Chrome Extension` `Manifest V3` `CSS`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚀 More Coming Soon
 **Always Building**
 
-Currently focused on deepening expertise in:
-- Machine learning fundamentals & model training
-- Data pipelines and structured retrieval systems
-- System design patterns for scalable backends
-- Contributing to open-source projects
+Currently focused on:
+
+- AI-powered applications and intelligent systems
+- FinTech and payment technology
+- Full-stack product development
+- Backend architecture and APIs
+- Technical research and competitive development
 
 *Watch this space →* ⭐
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -161,21 +181,21 @@ Currently focused on deepening expertise in:
 
 <p align="center"><sub><b>FRONTEND</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="Frontend" />
 </p>
 
 <p align="center"><sub><b>BACKEND & DATABASE</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&theme=dark" alt="Backend & Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres&theme=dark" alt="Backend & Database" />
 </p>
 
 <p align="center"><sub><b>DEPLOYMENT & TOOLING</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vercel,netlify&theme=dark" alt="Deployment & Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Deployment & Tooling" />
 </p>
 
 <p align="center">
-  <sub>Also working with Auth0 · Groq · Playwright</sub>
+  <sub>Also working with Auth0 · Groq · Gemini · Playwright · Firebase</sub>
 </p>
 
 ---
@@ -193,3 +213,5 @@ Currently focused on deepening expertise in:
 ---
 
 <div align="center">
+  <sub>Building practical systems. Learning by shipping.</sub>
+</div>
